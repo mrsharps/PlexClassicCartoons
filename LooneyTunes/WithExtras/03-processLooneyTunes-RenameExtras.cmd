@@ -5,6 +5,11 @@ ren "Looney Tunes Golden Collection Disc 1 T17*" "Looney Tunes - S00E57 - Behind
 ren "Looney Tunes Golden Collection Disc 1 T18*" "Looney Tunes - S00E45 - The Boys from Termite Terrace*"
 ren "Looney Tunes Golden Collection Disc 1 T24*" "Looney Tunes - S00E109 - My Dream Is Yours*"
 
+ren "Looney Tunes Golden Collection Disc 2 T15-45*" "Looney Tunes - SS00E54 - Behind the Tunes - Hard Luck Duck*"
+ren "Looney Tunes Golden Collection Disc 2 T16-46*" "Looney Tunes - S00E94 - Behind the Tunes - Porky Pig Roast - A Tribute to the World's Most Famous Ham*"
+ren "Looney Tunes Golden Collection Disc 2 T17-47*" "Looney Tunes - S00E62 - Behind the Tunes - Animal Quackers*"
+ren "Looney Tunes Golden Collection Disc 2 T18-48*" "Looney Tunes - S00E45 - The Boys from Termite Terrace*"
+
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19*" "V01D01 - Michael Barrier Commentary*"
 ren "Looney Tunes Golden Collection Disc 1 T20*" "V01D01 - Music-Only Episodes*"

@@ -24,6 +24,9 @@ ren "Looney Tunes Golden Collection Disc 4 T18-95.*" "Looney Tunes - S00E50 - Ir
 ren "Looney Tunes Golden Collection 2 Disc 1 T19-20.*" "Looney Tunes - S00E107 - Looney Tunes 50th Anniversary-part1.*"
 ren "Looney Tunes Golden Collection 2 Disc 1 T20-21.*" "Looney Tunes - S00E61 - Behind the Tunes - A Conversation with Tex Avery.*"
 
+ren "Looney Tunes Golden Collection 2 Disc 2 T18-42.*" "Looney Tunes - S00E84 - Adventures of the Road-Runner.*"
+ren "Looney Tunes Golden Collection 2 Disc 2 T19-43.*" "Looney Tunes - S00E90 - Behind the Tunes - Crash Bang Boom - The Wild Sounds of Treg Brown.*"
+
 
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
@@ -42,3 +45,5 @@ ren "Looney Tunes Golden Collection Disc 4 T23-100.*" "Virgil Ross Pencil Tests-
 
 ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - Do or Diet.*"
 ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - There's No Business Like Slow Business.*"
+
+ren "Looney Tunes Golden Collection 2 Disc 2 T20-44.*" "The Bugs Bunny and Road Runner Show - Opening Sequence.*"

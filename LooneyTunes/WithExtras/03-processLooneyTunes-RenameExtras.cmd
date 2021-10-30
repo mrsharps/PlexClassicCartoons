@@ -30,6 +30,10 @@ ren "Looney Tunes Golden Collection 2 Disc 2 T19-43.*" "Looney Tunes - S00E90 - 
 ren "Looney Tunes Golden Collection 2 Disc 3 T19-64.*" "Looney Tunes - S00E107 - Looney Tunes 50th Anniversary-part2.*"
 ren "Looney Tunes Golden Collection 2 Disc 3 T22-67.*" "Looney Tunes - S00E101 - Behind the Tunes - Man from Wackyland - The Art of Bob Clampett.*"
 
+ren "Looney Tunes Golden Collection 2 Disc 4 T20-88.*" "Looney Tunes - S00E67 - Behind the Tunes - Looney Tunes Go Hollywood.*"
+ren "Looney Tunes Golden Collection 2 Disc 4 T21-89.*" "Looney Tunes - S00E91 - Behind the Tunes - It Hopped One Night - A Look at 'One Froggy Evening'.*"
+ren "Looney Tunes Golden Collection 2 Disc 4 T22-90.*" "Looney Tunes - S00E58 - Behind the Tunes - Wagnerian Wabbit - The Making of 'What's Opera, Doc?'.*"
+
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"
@@ -45,10 +49,13 @@ ren "Looney Tunes Golden Collection Disc 4 T22-99.*" "Bosko, The Talk-ink Kid-ot
 ren "Looney Tunes Golden Collection Disc 4 T23-100.*" "Virgil Ross Pencil Tests-other.*"
 
 
-ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - Do or Diet.*"
-ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - There's No Business Like Slow Business.*"
+ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - Do or Diet-other.*"
+ren "Looney Tunes Golden Collection 2 Disc 1 T22-23.*" "The Bugs Bunny Show - There's No Business Like Slow Business-other.*"
 
-ren "Looney Tunes Golden Collection 2 Disc 2 T20-44.*" "The Bugs Bunny and Road Runner Show - Opening Sequence.*"
+ren "Looney Tunes Golden Collection 2 Disc 2 T20-44.*" "The Bugs Bunny and Road Runner Show - Opening Sequence-other.*"
 
 ren "Looney Tunes Golden Collection 2 Disc 3 T20-65.*" "Daffy Duck for President-short.*"
-ren "Looney Tunes Golden Collection 2 Disc 3 T21-66.*" "The Porky Pig Show  and The Bugs Bunny and Tweety Show - Opening Sequence.*"
+ren "Looney Tunes Golden Collection 2 Disc 3 T21-66.*" "The Porky Pig Show  and The Bugs Bunny and Tweety Show - Opening Sequence-other.*"
+
+ren "Looney Tunes Golden Collection 2 Disc 4 T24-92.*" "So Much for So Little-short.*"
+ren "Looney Tunes Golden Collection 2 Disc 4 T25-93.*" "Orange Blossoms for Violet-short.*"

@@ -29,3 +29,8 @@ del "Looney Tunes Golden Collection 2 Disc 1 T18-19.m4v"
 del "Looney Tunes Golden Collection 2 Disc 2 T00-24.m4v"
 del "Looney Tunes Golden Collection 2 Disc 2 T16-40.m4v"
 del "Looney Tunes Golden Collection 2 Disc 2 T17-41.m4v"
+
+del "Looney Tunes Golden Collection 2 Disc 3 T00-45.m4v"
+del "Looney Tunes Golden Collection 2 Disc 3 T16-61.m4v"
+del "Looney Tunes Golden Collection 2 Disc 3 T17-62.m4v"
+del "Looney Tunes Golden Collection 2 Disc 3 T18-63.m4v"

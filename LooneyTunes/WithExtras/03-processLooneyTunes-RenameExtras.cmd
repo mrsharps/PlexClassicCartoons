@@ -27,6 +27,8 @@ ren "Looney Tunes Golden Collection 2 Disc 1 T20-21.*" "Looney Tunes - S00E61 - 
 ren "Looney Tunes Golden Collection 2 Disc 2 T18-42.*" "Looney Tunes - S00E84 - Adventures of the Road-Runner.*"
 ren "Looney Tunes Golden Collection 2 Disc 2 T19-43.*" "Looney Tunes - S00E90 - Behind the Tunes - Crash Bang Boom - The Wild Sounds of Treg Brown.*"
 
+ren "Looney Tunes Golden Collection 2 Disc 3 T19-64.*" "Looney Tunes - S00E107 - Looney Tunes 50th Anniversary-part2.*"
+ren "Looney Tunes Golden Collection 2 Disc 3 T22-67.*" "Looney Tunes - S00E101 - Behind the Tunes - Man from Wackyland - The Art of Bob Clampett.*"
 
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
@@ -47,3 +49,6 @@ ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - Do
 ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - There's No Business Like Slow Business.*"
 
 ren "Looney Tunes Golden Collection 2 Disc 2 T20-44.*" "The Bugs Bunny and Road Runner Show - Opening Sequence.*"
+
+ren "Looney Tunes Golden Collection 2 Disc 3 T20-65.*" "Daffy Duck for President-short.*"
+ren "Looney Tunes Golden Collection 2 Disc 3 T21-66.*" "The Porky Pig Show  and The Bugs Bunny and Tweety Show - Opening Sequence.*"

@@ -1,4 +1,5 @@
 rem deleting the  'play all' files
+rem Volume 01
 del "Looney Tunes Golden Collection Disc 1 T00-1.m4v"
 del "Looney Tunes Golden Collection Disc 1 T20-21.m4v*"
 del "Looney Tunes Golden Collection Disc 1 T21-22.m4v"
@@ -21,6 +22,7 @@ del "Looney Tunes Golden Collection Disc 4 T20-97.m4v"
 del "Looney Tunes Golden Collection Disc 4 T21-98.m4v"
 
 
+rem Volume 02
 del "Looney Tunes Golden Collection 2 Disc 1 T00-1.m4v"
 del "Looney Tunes Golden Collection 2 Disc 1 T16-17.m4v"
 del "Looney Tunes Golden Collection 2 Disc 1 T17-18.m4v"
@@ -42,3 +44,10 @@ del "Looney Tunes Golden Collection 2 Disc 4 T18-86.m4v"
 del "Looney Tunes Golden Collection 2 Disc 4 T19-87.m4v"
 del "Looney Tunes Golden Collection 2 Disc 4 T23-91.m4v"
 del "Looney Tunes Golden Collection 2 Disc 4 T26-94.m4v"
+
+
+rem Volume 03
+del "Looney Tunes Golden Collection Volume 3 Disc 1 T00-1.m4v"
+del "Looney Tunes Golden Collection Volume 3 Disc 1 T16-17.m4v"
+del "Looney Tunes Golden Collection Volume 3 Disc 1 T17-18.m4v"
+del "Looney Tunes Golden Collection Volume 3 Disc 1 T21-22.m4v"

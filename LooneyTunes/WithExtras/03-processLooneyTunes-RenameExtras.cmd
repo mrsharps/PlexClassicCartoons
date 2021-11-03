@@ -34,6 +34,12 @@ ren "Looney Tunes Golden Collection 2 Disc 4 T20-88.*" "Looney Tunes - S00E67 - 
 ren "Looney Tunes Golden Collection 2 Disc 4 T21-89.*" "Looney Tunes - S00E91 - Behind the Tunes - It Hopped One Night - A Look at 'One Froggy Evening'.*"
 ren "Looney Tunes Golden Collection 2 Disc 4 T22-90.*" "Looney Tunes - S00E58 - Behind the Tunes - Wagnerian Wabbit - The Making of 'What's Opera, Doc?'.*"
 
+
+ren "Looney Tunes Golden Collection Volume 3 Disc 1 T19-20.*" "Looney Tunes - S00E59 - Behind the Tunes - A Hunting We Will Go - Chuck Jones' Wabbit Season Twilogy.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 1 T20-21.*" "Looney Tunes - S00E43 - Chuck Amuck - The Movie.*"
+
+
+
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"
@@ -59,3 +65,8 @@ ren "Looney Tunes Golden Collection 2 Disc 3 T21-66.*" "The Porky Pig Show  and 
 
 ren "Looney Tunes Golden Collection 2 Disc 4 T24-92.*" "So Much for So Little-short.*"
 ren "Looney Tunes Golden Collection 2 Disc 4 T25-93.*" "Orange Blossoms for Violet-short.*"
+
+
+ren "Looney Tunes Golden Collection Volume 3 Disc 1 T18-19.*" "Whoopi Goldberg-other"
+ren "Looney Tunes Golden Collection Volume 3 Disc 1 T22-23.*" "The Bugs Bunny Show - The Honey-Mousers-other.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 1 T23-24.*" "The Bugs Bunny Show - Ball Point Puns-other.*"

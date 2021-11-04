@@ -38,7 +38,9 @@ ren "Looney Tunes Golden Collection 2 Disc 4 T22-90.*" "Looney Tunes - S00E58 - 
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T19-20.*" "Looney Tunes - S00E59 - Behind the Tunes - A Hunting We Will Go - Chuck Jones' Wabbit Season Twilogy.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T20-21.*" "Looney Tunes - S00E43 - Chuck Amuck - The Movie.*"
 
-
+ren "Looney Tunes Golden Collection Volume 3 Disc 2 T19-44.*" "Looney Tunes - S00E115 - What's Up Doc - A Salute to Bugs Bunny-part1.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 2 T21-46.*" "Looney Tunes - S00E64 - Behind the Tunes - Bosko, Buddy and the Best of Black and White.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 2 T22-47.*" "Looney Tunes - S00E65 - Behind the Tunes - Fine Tooning - Restoring the Warner Bros. Cartoons.*"
 
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
@@ -70,3 +72,6 @@ ren "Looney Tunes Golden Collection 2 Disc 4 T25-93.*" "Orange Blossoms for Viol
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T18-19.*" "Whoopi Goldberg-other"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T22-23.*" "The Bugs Bunny Show - The Honey-Mousers-other.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T23-24.*" "The Bugs Bunny Show - Ball Point Puns-other.*"
+
+ren "Looney Tunes Golden Collection Volume 3 Disc 2 T24-49.*" "Sinkin' In The Bathtub-short.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 2 T25-50.*" "It's Got Me Again-short.*"

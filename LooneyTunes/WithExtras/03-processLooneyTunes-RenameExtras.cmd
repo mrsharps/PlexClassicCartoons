@@ -40,15 +40,15 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 1 T20-21.*" "Looney Tunes - S0
 
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T19-44.*" "Looney Tunes - S00E115 - What's Up Doc - A Salute to Bugs Bunny-part1.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T21-46.*" "Looney Tunes - S00E64 - Behind the Tunes - Bosko, Buddy and the Best of Black and White.*"
-ren "Looney Tunes Golden Collection Volume 3 Disc 2 T22-47.*" "Looney Tunes - S00E65 - Behind the Tunes - Fine Tooning - Restoring the Warner Bros. Cartoons.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 2 T22-47.*" "Looney Tunes - S00E65 - Behind the Tunes - Fine Tooning - Restoring the Warner Bros Cartoons.*"
 
 ren "Looney Tunes Golden Collection Volume 3 Disc 3 T19-70.*" "Looney Tunes - S00E96 - Behind the Tunes - Tish Tash - The Animated World of Frank Tashlin.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 3 T20-71.*" "Looney Tunes - S00E115 - What's Up Doc - A Salute to Bugs Bunny-part2.*"
 
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T19-95.*" "Looney Tunes - S00E76 - Philbert.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T21-97.*" "Looney Tunes - S00E68 - Behind the Tunes - Looney Tunes Go to War.*"
-ren "Looney Tunes Golden Collection Volume 3 Disc 4 T22-98.*" "Behind the Tunes - S00E95 - Strictly for the Birds - Tweety and Sylvester's Award-Winning Teamup.*"
-ren "Looney Tunes Golden Collection Volume 3 Disc 4 T23-99.*" "Behind the Tunes - S00E89	- The Charm of Stink - On the Scent of Pepe Le Pew.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 4 T22-98.*" "Looney Tunes - S00E95 - Behind the Tunes - Strictly for the Birds - Tweety and Sylvester's Award-Winning Teamup.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 4 T23-99.*" "Looney Tunes - S00E89 - Behind the Tunes - The Charm of Stink - On the Scent of Pepe Le Pew.*"
 
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
@@ -77,7 +77,7 @@ ren "Looney Tunes Golden Collection 2 Disc 4 T24-92.*" "So Much for So Little-sh
 ren "Looney Tunes Golden Collection 2 Disc 4 T25-93.*" "Orange Blossoms for Violet-short.*"
 
 
-ren "Looney Tunes Golden Collection Volume 3 Disc 1 T18-19.*" "Whoopi Goldberg-other"
+ren "Looney Tunes Golden Collection Volume 3 Disc 1 T18-19.*" "Whoopi Goldberg-other.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T22-23.*" "The Bugs Bunny Show - The Honey-Mousers-other.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T23-24.*" "The Bugs Bunny Show - Ball Point Puns-other.*"
 

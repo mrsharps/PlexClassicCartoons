@@ -42,6 +42,9 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 2 T19-44.*" "Looney Tunes - S0
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T21-46.*" "Looney Tunes - S00E64 - Behind the Tunes - Bosko, Buddy and the Best of Black and White.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T22-47.*" "Looney Tunes - S00E65 - Behind the Tunes - Fine Tooning - Restoring the Warner Bros. Cartoons.*"
 
+ren "Looney Tunes Golden Collection Volume 3 Disc 3 T19-70.*" "Looney Tunes - S00E96 - Behind the Tunes - Tish Tash - The Animated World of Frank Tashlin.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 3 T20-71.*" "Looney Tunes - S00E115 - What's Up Doc - A Salute to Bugs Bunny-part2.*"
+
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"
@@ -75,3 +78,7 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 1 T23-24.*" "The Bugs Bunny Sh
 
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T24-49.*" "Sinkin' In The Bathtub-short.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T25-50.*" "It's Got Me Again-short.*"
+
+ren "Looney Tunes Golden Collection Volume 3 Disc 3 T22-73.*" "Porky's Party Storyboard Reel-other.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 3 T23-74.*" "Point Rationing of Foods-other.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 3 T24-75.*" "The Bear That Wasn't-other.*"

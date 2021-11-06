@@ -52,7 +52,7 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 4 T23-99.*" "Looney Tunes - S0
 
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T20-21.*" "Looney Tunes - S00E97 - Behind the Tunes - Twilight in Tunes - The Music of Raymond Scott.*"
-ren "Looney Tunes Golden Collection Volume 4 Disc 1 T23-24.*" Looney Tunes - S00E106 - Fifty Years of Bugs Bunny in 3.5 Minutes.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T23-24.*" "Looney Tunes - S00E106 - Fifty Years of Bugs Bunny in 3_5 Minutes.*"
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T20-79.*" "Looney Tunes - S00E99 - Friz on Film.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T22-81.*" "Looney Tunes - S00E40 - 90 Day Wondering.*"
@@ -121,7 +121,7 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 2 T22-53.*" "Little Chic's Won
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T23-54.*" "Tony and Clarence-other.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T25-56.*" "The Goldbrick-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T26-57.*" "The Home Front-short.*"
-ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Censored.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Censored-short.*"
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T27-110.*" "Porky's Breakdowns-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T28-111.*" "Sahara Hare Storyboard Reel-other.*"

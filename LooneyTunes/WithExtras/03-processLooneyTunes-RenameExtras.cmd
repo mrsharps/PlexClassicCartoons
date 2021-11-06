@@ -103,3 +103,11 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 1 T25-26.*" "The Bugs Bunny Sh
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T26-27.*" "The Bugs Bunny Show - Foreign Legion Leghorn-other.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T28-29.*" "Bugs Bunny's Cartoon Carnival Theatrical Trailer-trailer.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T29-30.*" "Bugs Bunny's All-Star Revue Theatrical Trailer-trailer.*"
+
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T19-50.*" "Bugs Superstar (Part 2)-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T20-51.*" "Porky and Daffy in The William Tell Overture (2006)-short.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T22-53.*" "Little Chic's Wonderful Mother-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T23-54.*" "Tony and Clarence-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T25-56.*" "The Goldbrick-short.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T26-57.*" "The Home Front-short.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Censored.*"

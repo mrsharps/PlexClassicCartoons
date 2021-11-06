@@ -53,6 +53,14 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 4 T23-99.*" "Looney Tunes - S0
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T20-21.*" "Looney Tunes - S00E97 - Behind the Tunes - Twilight in Tunes - The Music of Raymond Scott.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T23-24.*" Looney Tunes - S00E106 - Fifty Years of Bugs Bunny in 3.5 Minutes.*"
+
+ren "Looney Tunes Golden Collection Volume 4 Disc 3 T20-79.*" "Looney Tunes - S00E99 - Friz on Film.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 3 T22-81.*" "Looney Tunes - S00E40 - 90 Day Wondering.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 3 T23-82.*" "Looney Tunes - S00E41 - Drafty, Isn't It.*"
+
+
+
+
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"

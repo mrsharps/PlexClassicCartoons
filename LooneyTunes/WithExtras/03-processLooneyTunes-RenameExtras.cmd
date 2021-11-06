@@ -50,6 +50,9 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 4 T21-97.*" "Looney Tunes - S0
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T22-98.*" "Looney Tunes - S00E95 - Behind the Tunes - Strictly for the Birds - Tweety and Sylvester's Award-Winning Teamup.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T23-99.*" "Looney Tunes - S00E89 - Behind the Tunes - The Charm of Stink - On the Scent of Pepe Le Pew.*"
 
+
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T20-21.*" "Looney Tunes - S00E97 - Behind the Tunes - Twilight in Tunes - The Music of Raymond Scott.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T23-24.*" Looney Tunes - S00E106 - Fifty Years of Bugs Bunny in 3.5 Minutes.*"
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"
@@ -93,3 +96,10 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 4 T26-102.*" "Spies-short.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T27-103.*" "Rumors-short.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T28-104.*" "Snafuperman-short.*"
 
+
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T21-22.*" "Bugs Superstar (Part 1)-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T22-23.*" "Powerhouse in Pictures-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T25-26.*" "The Bugs Bunny Show - Ball Point Puns Bridging Sequences-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T26-27.*" "The Bugs Bunny Show - Foreign Legion Leghorn-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T28-29.*" "Bugs Bunny's Cartoon Carnival Theatrical Trailer-trailer.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T29-30.*" "Bugs Bunny's All-Star Revue Theatrical Trailer-trailer.*"

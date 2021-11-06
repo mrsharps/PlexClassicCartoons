@@ -71,3 +71,13 @@ del "Looney Tunes Golden Collection Volume 3 Disc 4 T17-93.m4v"
 del "Looney Tunes Golden Collection Volume 3 Disc 4 T18-94.m4v"
 del "Looney Tunes Golden Collection Volume 3 Disc 4 T20-96.m4v"
 del "Looney Tunes Golden Collection Volume 3 Disc 4 T24-100.m4v"
+
+
+rem Volume 04
+del "Looney Tunes Golden Collection Volume 4 Disc 1 T00-1.m4v"
+del "Looney Tunes Golden Collection Volume 4 Disc 1 T16-17.m4v"
+del "Looney Tunes Golden Collection Volume 4 Disc 1 T17-18.m4v"
+del "Looney Tunes Golden Collection Volume 4 Disc 1 T18-19.m4v"
+del "Looney Tunes Golden Collection Volume 4 Disc 1 T19-20.m4v"
+del "Looney Tunes Golden Collection Volume 4 Disc 1 T24-25.m4v"
+del "Looney Tunes Golden Collection Volume 4 Disc 1 T27-28.m4v"

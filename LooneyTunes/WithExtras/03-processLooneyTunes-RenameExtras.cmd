@@ -58,8 +58,11 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 3 T20-79.*" "Looney Tunes - S0
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T22-81.*" "Looney Tunes - S00E40 - 90 Day Wondering.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T23-82.*" "Looney Tunes - S00E41 - Drafty, Isn't It.*"
 
-
-
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T21-104.*" "Looney Tunes - S00E71 - Behind the Tunes - One Hit Wonders.*" 
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T22-105.*" "Looney Tunes - S00E75 - Behind the Tunes - Sing-a-Song of Looney Tunes.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T23-106.*" "Looney Tunes - S00E78 - Behind the Tunes - The Art of the Gag.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T24-107.*" "Looney Tunes - S00E98 - Behind the Tunes - Wild Lines - The Art of Voice Acting.*" 
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T25-108.*" "Looney Tunes - S00E92 - Behind the Tunes - Looney Tunes - A Cast of Thousands.*" 
 
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
@@ -119,3 +122,8 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 2 T23-54.*" "Tony and Clarence
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T25-56.*" "The Goldbrick-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T26-57.*" "The Home Front-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Censored.*"
+
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T27-110.*" "Porky's Breakdowns-short.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T28-111.*" "Sahara Hare Storyboard Reel-other.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 4 T29-112.*" "Porky's Poor Fish Storyboard Reel-other.*"
+

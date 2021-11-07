@@ -68,6 +68,15 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 4 T25-108.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T25-26.*" "Looney Tunes - S00E49 - Chuck Jones - Extremes and In-Betweens - A Life in Animation-part1.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T28-29.*" "Looney Tunes - S00E44 - Chuck Jones -General Foods commercials starring Bugs and company.*"
 
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T25-100.*" "Looney Tunes - S00E87 - Behind the Tunes - Wacky Warner One-Shots.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T26-101.*" "Looney Tunes - S00E80 - Behind the Tunes - Real American Zero - The Adventures of Private Snafu.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T27-102.*" "Looney Tunes - S00E108 - Hare Ribbin' (Director's Cut).*" 
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T31-106.*" "Looney Tunes - S00E04 - Coming Snafu.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T32-107.*" "Looney Tunes - S00E05 - Gripes.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T34-109.*" "Looney Tunes - S00E34 - The Good Egg.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T35-110.*" "Looney Tunes - S00E35 - The Return of Mr Hook.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T36-111.*" "Looney Tunes - S00E36 - Tokyo Woes.*"
+
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"
@@ -135,3 +144,5 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 4 T29-112.*" "Porky's Poor Fis
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T26-27.*" "The Bugs Bunny Show - Bad Time Story-other.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T27-28.*" "The Bugs Bunny Show - What's Up Dog-other.*"
 
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T28-103.*" "The Bashful Buzzard Storyboard Reel-other.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 3 T29-104.*" "The Bashful Buzzard Original Opening-other.*"

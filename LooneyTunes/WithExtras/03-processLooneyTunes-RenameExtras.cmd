@@ -64,6 +64,10 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 4 T23-106.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T24-107.*" "Looney Tunes - S00E98 - Behind the Tunes - Wild Lines - The Art of Voice Acting.*" 
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T25-108.*" "Looney Tunes - S00E92 - Behind the Tunes - Looney Tunes - A Cast of Thousands.*" 
 
+
+ren "Looney Tunes Golden Collection Volume 5 Disc 1 T25-26.*" "Looney Tunes - S00E49 - Chuck Jones - Extremes and In-Betweens - A Life in Animation-part1.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 1 T28-29.*" "Looney Tunes - S00E44 - Chuck Jones -General Foods commercials starring Bugs and company.*"
+
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"
@@ -126,4 +130,8 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Censored-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T27-110.*" "Porky's Breakdowns-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T28-111.*" "Sahara Hare Storyboard Reel-other.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T29-112.*" "Porky's Poor Fish Storyboard Reel-other.*"
+
+
+ren "Looney Tunes Golden Collection Volume 5 Disc 1 T26-27.*" "The Bugs Bunny Show - Bad Time Story-other.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 1 T27-28.*" "The Bugs Bunny Show - What's Up Dog-other.*"
 

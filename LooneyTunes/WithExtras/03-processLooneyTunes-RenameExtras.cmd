@@ -75,6 +75,11 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 4 T25-108.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T25-26.*" "Looney Tunes - S00E49 - Chuck Jones - Extremes and In-Betweens - A Life in Animation-part1.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T28-29.*" "Looney Tunes - S00E44 - Chuck Jones -General Foods commercials starring Bugs and company.*"
 
+ren "Looney Tunes Golden Collection Volume 5 Disc 2 T25-70.*" "Looney Tunes - S00E49 - Chuck Jones - Extremes and In-Betweens - A Life in Animation-part2.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 2 T26-71.*" "Looney Tunes - S00E85 - A Chuck Jones Tutorial - Tricks of the Cartoon Trade"
+ren "Looney Tunes Golden Collection Volume 5 Disc 2 T28-73.*" "Looney Tunes - S00E70 - Behind the Tunes - Once Upon a Looney Tune.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 2 T29-74.*" "Looney Tunes - S00E83 - Behind the Tunes - Drawn to Life - The Art of Robert McKimson.*"
+
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T25-100.*" "Looney Tunes - S00E87 - Behind the Tunes - Wacky Warner One-Shots.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T26-101.*" "Looney Tunes - S00E80 - Behind the Tunes - Real American Zero - The Adventures of Private Snafu.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T27-102.*" "Looney Tunes - S00E108 - Hare Ribbin' (Director's Cut).*" 

@@ -49,10 +49,17 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 4 T19-95.*" "Looney Tunes - S0
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T21-97.*" "Looney Tunes - S00E68 - Behind the Tunes - Looney Tunes Go to War.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T22-98.*" "Looney Tunes - S00E95 - Behind the Tunes - Strictly for the Birds - Tweety and Sylvester's Award-Winning Teamup.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T23-99.*" "Looney Tunes - S00E89 - Behind the Tunes - The Charm of Stink - On the Scent of Pepe Le Pew.*"
-
+ren "Looney Tunes Golden Collection Volume 3 Disc 4 T26-102.*" "Looney Tunes - S00E06 - Spies.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 4 T27-103.*" "Looney Tunes - S00E11 - Rumors.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 4 T28-104.*" "Looney Tunes - S00E89 - Snafuperman.*"
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T20-21.*" "Looney Tunes - S00E97 - Behind the Tunes - Twilight in Tunes - The Music of Raymond Scott.*"
-ren "Looney Tunes Golden Collection Volume 4 Disc 1 T23-24.*" "Looney Tunes - S00E106 - Fifty Years of Bugs Bunny in 3_5 Minutes.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 1 T23-24.*" "Looney Tunes - S00E15 - Fifty Years of Bugs Bunny in 3_5 Minutes.*"
+
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T25-56.*" "Looney Tunes - S00E07 - The Goldbrick.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T26-57.*" "Looney Tunes - S00E10 - The Home Front.*"
+ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Looney Tunes - S00E20 - Censored.*"
+
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T20-79.*" "Looney Tunes - S00E99 - Friz on Film.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T22-81.*" "Looney Tunes - S00E40 - 90 Day Wondering.*"
@@ -76,6 +83,11 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 3 T32-107.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T34-109.*" "Looney Tunes - S00E34 - The Good Egg.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T35-110.*" "Looney Tunes - S00E35 - The Return of Mr Hook.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T36-111.*" "Looney Tunes - S00E36 - Tokyo Woes.*"
+
+
+
+
+
 
 rem renaming all undefined extras
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
@@ -116,9 +128,6 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 3 T23-74.*" "Point Rationing o
 ren "Looney Tunes Golden Collection Volume 3 Disc 3 T24-75.*" "The Bear That Wasn't-other.*"
 
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T25-101.*" "Falling Hare Storyboard Reel-other.*"
-ren "Looney Tunes Golden Collection Volume 3 Disc 4 T26-102.*" "Spies-short.*"
-ren "Looney Tunes Golden Collection Volume 3 Disc 4 T27-103.*" "Rumors-short.*"
-ren "Looney Tunes Golden Collection Volume 3 Disc 4 T28-104.*" "Snafuperman-short.*"
 
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T21-22.*" "Bugs Superstar (Part 1)-other.*"
@@ -132,9 +141,6 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 2 T19-50.*" "Bugs Superstar (P
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T20-51.*" "Porky and Daffy in The William Tell Overture (2006)-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T22-53.*" "Little Chic's Wonderful Mother-other.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T23-54.*" "Tony and Clarence-other.*"
-ren "Looney Tunes Golden Collection Volume 4 Disc 2 T25-56.*" "The Goldbrick-short.*"
-ren "Looney Tunes Golden Collection Volume 4 Disc 2 T26-57.*" "The Home Front-short.*"
-ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Censored-short.*"
 
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T27-110.*" "Porky's Breakdowns-short.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T28-111.*" "Sahara Hare Storyboard Reel-other.*"

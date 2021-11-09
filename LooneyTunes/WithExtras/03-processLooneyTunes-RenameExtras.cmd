@@ -76,7 +76,7 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 1 T25-26.*" "Looney Tunes - S0
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T28-29.*" "Looney Tunes - S00E44 - Chuck Jones -General Foods commercials starring Bugs and company.*"
 
 ren "Looney Tunes Golden Collection Volume 5 Disc 2 T25-70.*" "Looney Tunes - S00E49 - Chuck Jones - Extremes and In-Betweens - A Life in Animation-part2.*"
-ren "Looney Tunes Golden Collection Volume 5 Disc 2 T26-71.*" "Looney Tunes - S00E85 - A Chuck Jones Tutorial - Tricks of the Cartoon Trade"
+ren "Looney Tunes Golden Collection Volume 5 Disc 2 T26-71.*" "Looney Tunes - S00E85 - A Chuck Jones Tutorial - Tricks of the Cartoon Trade.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 2 T28-73.*" "Looney Tunes - S00E70 - Behind the Tunes - Once Upon a Looney Tune.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 2 T29-74.*" "Looney Tunes - S00E83 - Behind the Tunes - Drawn to Life - The Art of Robert McKimson.*"
 

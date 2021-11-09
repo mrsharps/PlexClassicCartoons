@@ -89,7 +89,7 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 3 T34-109.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T35-110.*" "Looney Tunes - S00E35 - The Return of Mr Hook.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T36-111.*" "Looney Tunes - S00E36 - Tokyo Woes.*"
 
-
+ren "Looney Tunes Golden Collection Volume 5 Disc 4 T24-137.*" "Looney Tunes - S00E86 - Unsung Maestros - A Directors' Tribute.*"
 
 
 
@@ -157,3 +157,8 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 1 T27-28.*" "The Bugs Bunny Sh
 
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T28-103.*" "The Bashful Buzzard Storyboard Reel-other.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 3 T29-104.*" "The Bashful Buzzard Original Opening-other.*"
+
+ren "Looney Tunes Golden Collection Volume 5 Disc 4 T26-139.*" "Bugs and Daffy's Carnival of the Animals-other.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 4 T27-140.*" "Bugs Bunny's Looney Christmas Tales-other.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 4 T28-141.*" "Bugs Bunny's Bustin' Out All Over-other.*"
+ren "Looney Tunes Golden Collection Volume 5 Disc 4 T32-145.*" "Looney Tunes - Acme Arsenal-trailer.*"

@@ -162,3 +162,21 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 4 T26-139.*" "Bugs and Daffy's
 ren "Looney Tunes Golden Collection Volume 5 Disc 4 T27-140.*" "Bugs Bunny's Looney Christmas Tales-other.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 4 T28-141.*" "Bugs Bunny's Bustin' Out All Over-other.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 4 T32-145.*" "Looney Tunes - Acme Arsenal-trailer.*"
+
+rem Volume 6
+rem commentary
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T17-18.*" "Hare Trigger - Commentary by Greg Ford-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T18-19.*" "Birth of a Notion - Commentary by Mark Kausler-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T19-20.*" "My Favorite Duck - Commentary by Jerry Beck-other."
+rem audio only
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T21-22.*" "Raw Raw Rooster - Music-Only-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T22-23.*" "Jumpin' Jupiter - Music-Only-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T23-24.*" "Rabbit Rampage - Music-Only-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T24-25.*" "Boyhood Daze - Music-Only-other.*"
+rem 
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T26-27.*" "Bugs Bunny in King Arthur's Court-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T27-28.*" "Daffy Duck's Easter Egg-Citement-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T29-30.*" "Sniffles Takes a Trip-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T30-31.*" "Hippety Hopper-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T31-32.*" "Rabbit Rampage-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T32-33.*" "Boyhood Daze-short.*"

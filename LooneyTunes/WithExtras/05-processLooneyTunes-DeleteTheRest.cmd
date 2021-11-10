@@ -170,3 +170,19 @@ rem Trailers for "Dennis The Menace" and "Smurfs season 1"
 del "Looney Tunes Golden Collection Volume 5 Disc 4 T29-142.*"
 del "Looney Tunes Golden Collection Volume 5 Disc 4 T30-143.*"
 del "Looney Tunes Golden Collection Volume 5 Disc 4 T31-144.*"
+
+rem Volume 6
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T00-1.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T16-17.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T20-21.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T25-26.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T28-29.*"
+rem Trailers
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T33-34.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T34-35.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T35-36.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T36-37.*"
+rem
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T37-38.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T38-39.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 1 T39-40.*"

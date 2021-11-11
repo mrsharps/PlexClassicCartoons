@@ -186,3 +186,10 @@ rem
 del "Looney Tunes Golden Collection Volume 6 Disc 1 T37-38.*"
 del "Looney Tunes Golden Collection Volume 6 Disc 1 T38-39.*"
 del "Looney Tunes Golden Collection Volume 6 Disc 1 T39-40.*"
+
+del "Looney Tunes Golden Collection Volume 6 Disc 2 T00-41.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 2 T16-57.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 2 T17-58.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 2 T18-59.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 2 T24-65.*"
+del "Looney Tunes Golden Collection Volume 6 Disc 2 T30-71.*"

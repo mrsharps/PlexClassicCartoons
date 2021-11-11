@@ -180,3 +180,20 @@ ren "Looney Tunes Golden Collection Volume 6 Disc 1 T29-30.*" "Sniffles Takes a 
 ren "Looney Tunes Golden Collection Volume 6 Disc 1 T30-31.*" "Hippety Hopper-short.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 1 T31-32.*" "Rabbit Rampage-short.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 1 T32-33.*" "Boyhood Daze-short.*"
+
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T19-60.*" "Herr Meets Hare - Commentary by Greg Ford-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T20-61.*" "Russian Rhapsody - Commentary by Mark Kausler-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T21-62.*" "Draft Horse - Commentary by Greg Ford-other.*"
+rem this doesn't actually have commentary by Jerry Beck.  I've reached out to his to see if there is a version of his commentary available elsewhere
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T22-63.*" "Fifth Column Mouse - Commentary by Jerry Beck-other.*"
+rem audio only
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T23-64.*" "Yankee Dood It - Music-Only-other.*"
+rem
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T25-66.*" "Poultry Pirates-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T26-67.*" "A Day At The Beach-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T27-68.*" "The Captain's Christmas-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T28-69.*" "Seal Skinners-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T29-70.*" "Mama's New Hat-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T31-72.*" "The Fighting 69th-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T32-73.*" "Hop and Go-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 2 T33-74.*" "Confusions of a Nutzy Spy-short.*"

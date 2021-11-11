@@ -92,6 +92,11 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 3 T36-111.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 5 Disc 4 T24-137.*" "Looney Tunes - S00E86 - Unsung Maestros - A Directors' Tribute.*"
 
 
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T27-28.*" "Looney Tunes - S00E01 - Crying for the Carolines.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T28-29.*" "Looney Tunes - S00E25 - Haunted Gold Title Sequence.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T29-30.*" "Looney Tunes - S00E28 - Schlesinger Productions Christmas Party.*"
+
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T30-67.*" "Looney Tunes - S00E46 - Mel Blanc - The Man of a Thousand Voices.*"
 
 
 rem renaming all undefined extras
@@ -197,3 +202,28 @@ ren "Looney Tunes Golden Collection Volume 6 Disc 2 T29-70.*" "Mama's New Hat-sh
 ren "Looney Tunes Golden Collection Volume 6 Disc 2 T31-72.*" "The Fighting 69th-short.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 2 T32-73.*" "Hop and Go-short.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 2 T33-74.*" "Confusions of a Nutzy Spy-short.*"
+
+rem commentary
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T23-24.*" "Shuffle Off To Buffalo - Commentary by Jerry Beck-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T24-25.*" "A Cartoonist's Nightmare - Commentary by Jerry Beck-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T26-27.*" "The World of Leon Schlesinger - Introduction by Martha Sigall and Jerry Beck-other.*"
+rem
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T30-31.*" "Schlesinger Productions Christmas Party - Commentary by Martha Sigall and Jerry Beck-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T32-33.*" "I Love A Parade-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T33-34.*" "I Like Mountain Music-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T34-35.*" "Sittin' on a Backyard Fence-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 3 T35-36.*" "How Do I know It's Sunday-short.*"
+
+rem commentary
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T23-60.*" "Fresh Airedale - Commentary by Greg Ford-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T24-61.*" "The Hole Idea - Commentary by Mark Kausler-other.*"
+rem audio only
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T26-63.*" "The Hole Idea - Music-Only-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T27-64.*" "Martian Through Georgia - Music-Only-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T28-65.*" "Punch Trunk - Music-Only-other.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T29-66.*" "Wild Wild World - Music-Only-other.*"
+rem
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T32-69.*" "Sleep Time Possum-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T33-70.*" "Punch Trunk-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T34-71*" "Wild Wild World-short.*"
+ren "Looney Tunes Golden Collection Volume 6 Disc 4 T35-72.*" "Bartholomew Versus the Wheel-short.*"

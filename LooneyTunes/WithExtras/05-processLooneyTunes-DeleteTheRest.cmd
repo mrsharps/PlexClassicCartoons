@@ -1,7 +1,7 @@
 rem deleting the  'play all' files
 rem Volume 01
 del "Looney Tunes Golden Collection Disc 1 T00-1.*"
-del "Looney Tunes Golden Collection Disc 1 T20-21.**"
+del "Looney Tunes Golden Collection Disc 1 T20-21.*"
 del "Looney Tunes Golden Collection Disc 1 T21-22.*"
 del "Looney Tunes Golden Collection Disc 1 T28-29.*"
 

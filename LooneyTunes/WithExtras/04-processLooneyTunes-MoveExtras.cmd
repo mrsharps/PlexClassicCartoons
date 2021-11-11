@@ -7,8 +7,8 @@ rem Move comentary files - most of these exist as additional audio tracks on the
 rem Volume 6
 move /y "Hare Trigger - Commentary by Greg Ford-other.*" .\1945 
 move /y "Birth of a Notion - Commentary by Mark Kausler-other.*" .\1947 
-move /y " "My Favorite Duck - Commentary by Jerry Beck-other.*" .\1942
-move /y ""Raw Raw Rooster - Music-Only-other.*" .\1956
+move /y "My Favorite Duck - Commentary by Jerry Beck-other.*" .\1942
+move /y "Raw Raw Rooster - Music-Only-other.*" .\1956
 move /y "Jumpin' Jupiter - Music-Only-other.*" .\1955
 
 move /y "Herr Meets Hare - Commentary by Greg Ford-other.*" .\1945

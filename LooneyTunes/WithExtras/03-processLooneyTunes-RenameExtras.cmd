@@ -1,4 +1,8 @@
-rem rename all the specials
+rem
+rem Rename all the specials
+rem
+
+rem Volume 1
 ren "Looney Tunes Golden Collection Disc 1 T15-16.*" "Looney Tunes - S00E56 - Behind the Tunes - Bugs - A Rabbit for All Seasonings.*"
 ren "Looney Tunes Golden Collection Disc 1 T16-17.*" "Looney Tunes - S00E55 - Behind the Tunes - Short Fuse Shootout - The Small Tale of Yosemite Sam.*"
 ren "Looney Tunes Golden Collection Disc 1 T17-18.*" "Looney Tunes - S00E57 - Behind the Tunes - Forever Befuddled.*"
@@ -21,6 +25,7 @@ ren "Looney Tunes Golden Collection Disc 4 T17-94.*" "Looney Tunes - S00E77 - Be
 ren "Looney Tunes Golden Collection Disc 4 T18-95.*" "Looney Tunes - S00E50 - Irreverent Imagination - The Golden Age of the Looney Tunes.*"
 
 
+rem Volume 2
 ren "Looney Tunes Golden Collection 2 Disc 1 T19-20.*" "Looney Tunes - S00E107 - Looney Tunes 50th Anniversary-part1.*"
 ren "Looney Tunes Golden Collection 2 Disc 1 T20-21.*" "Looney Tunes - S00E61 - Behind the Tunes - A Conversation with Tex Avery.*"
 
@@ -35,6 +40,7 @@ ren "Looney Tunes Golden Collection 2 Disc 4 T21-89.*" "Looney Tunes - S00E91 - 
 ren "Looney Tunes Golden Collection 2 Disc 4 T22-90.*" "Looney Tunes - S00E58 - Behind the Tunes - Wagnerian Wabbit - The Making of 'What's Opera, Doc?'.*"
 
 
+rem Volume 3
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T19-20.*" "Looney Tunes - S00E59 - Behind the Tunes - A Hunting We Will Go - Chuck Jones' Wabbit Season Twilogy.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T20-21.*" "Looney Tunes - S00E43 - Chuck Amuck - The Movie.*"
 
@@ -61,6 +67,7 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 2 T26-57.*" "Looney Tunes - S0
 ren "Looney Tunes Golden Collection Volume 4 Disc 2 T27-58.*" "Looney Tunes - S00E20 - Censored.*"
 
 
+rem Volume 4
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T20-79.*" "Looney Tunes - S00E99 - Friz on Film.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T22-81.*" "Looney Tunes - S00E40 - 90 Day Wondering.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 3 T23-82.*" "Looney Tunes - S00E41 - Drafty, Isn't It.*"
@@ -72,6 +79,7 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 4 T24-107.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T25-108.*" "Looney Tunes - S00E92 - Behind the Tunes - Looney Tunes - A Cast of Thousands.*" 
 
 
+rem Volume 5
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T25-26.*" "Looney Tunes - S00E49 - Chuck Jones - Extremes and In-Betweens - A Life in Animation-part1.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T28-29.*" "Looney Tunes - S00E44 - Chuck Jones -General Foods commercials starring Bugs and company.*"
 
@@ -92,6 +100,7 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 3 T36-111.*" "Looney Tunes - S
 ren "Looney Tunes Golden Collection Volume 5 Disc 4 T24-137.*" "Looney Tunes - S00E86 - Unsung Maestros - A Directors' Tribute.*"
 
 
+rem Volume 6
 ren "Looney Tunes Golden Collection Volume 6 Disc 3 T27-28.*" "Looney Tunes - S00E01 - Crying for the Carolines.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 3 T28-29.*" "Looney Tunes - S00E25 - Haunted Gold Title Sequence.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 3 T29-30.*" "Looney Tunes - S00E28 - Schlesinger Productions Christmas Party.*"
@@ -99,7 +108,12 @@ ren "Looney Tunes Golden Collection Volume 6 Disc 3 T29-30.*" "Looney Tunes - S0
 ren "Looney Tunes Golden Collection Volume 6 Disc 4 T30-67.*" "Looney Tunes - S00E46 - Mel Blanc - The Man of a Thousand Voices.*"
 
 
-rem renaming all undefined extras
+
+rem
+rem Rename all undefined extras
+rem
+
+rem Volume 1
 ren "Looney Tunes Golden Collection Disc 1 T19-20.*" "Michael Barrier Commentary-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T22-23.*" "A Greetings From Chuck Jones-other.*"
 ren "Looney Tunes Golden Collection Disc 1 T23-24.*" "Two Guys From Texas-featurette.*"
@@ -114,6 +128,7 @@ ren "Looney Tunes Golden Collection Disc 4 T22-99.*" "Bosko, The Talk-ink Kid-ot
 ren "Looney Tunes Golden Collection Disc 4 T23-100.*" "Virgil Ross Pencil Tests-other.*"
 
 
+rem Volume 2
 ren "Looney Tunes Golden Collection 2 Disc 1 T21-22.*" "The Bugs Bunny Show - Do or Diet-other.*"
 ren "Looney Tunes Golden Collection 2 Disc 1 T22-23.*" "The Bugs Bunny Show - There's No Business Like Slow Business-other.*"
 
@@ -126,6 +141,7 @@ ren "Looney Tunes Golden Collection 2 Disc 4 T24-92.*" "So Much for So Little-sh
 ren "Looney Tunes Golden Collection 2 Disc 4 T25-93.*" "Orange Blossoms for Violet-short.*"
 
 
+rem Volume 3
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T18-19.*" "Whoopi Goldberg-other.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T22-23.*" "The Bugs Bunny Show - The Honey-Mousers-other.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T23-24.*" "The Bugs Bunny Show - Ball Point Puns-other.*"
@@ -140,6 +156,7 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 3 T24-75.*" "The Bear That Was
 ren "Looney Tunes Golden Collection Volume 3 Disc 4 T25-101.*" "Falling Hare Storyboard Reel-other.*"
 
 
+rem Volume 4
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T21-22.*" "Bugs Superstar (Part 1)-other.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T22-23.*" "Powerhouse in Pictures-other.*"
 ren "Looney Tunes Golden Collection Volume 4 Disc 1 T25-26.*" "The Bugs Bunny Show - Ball Point Puns Bridging Sequences-other.*"
@@ -157,6 +174,7 @@ ren "Looney Tunes Golden Collection Volume 4 Disc 4 T28-111.*" "Sahara Hare Stor
 ren "Looney Tunes Golden Collection Volume 4 Disc 4 T29-112.*" "Porky's Poor Fish Storyboard Reel-other.*"
 
 
+rem Volume 5
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T26-27.*" "The Bugs Bunny Show - Bad Time Story-other.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 1 T27-28.*" "The Bugs Bunny Show - What's Up Dog-other.*"
 
@@ -168,11 +186,12 @@ ren "Looney Tunes Golden Collection Volume 5 Disc 4 T27-140.*" "Bugs Bunny's Loo
 ren "Looney Tunes Golden Collection Volume 5 Disc 4 T28-141.*" "Bugs Bunny's Bustin' Out All Over-other.*"
 ren "Looney Tunes Golden Collection Volume 5 Disc 4 T32-145.*" "Looney Tunes - Acme Arsenal-trailer.*"
 
+
 rem Volume 6
 rem commentary
 ren "Looney Tunes Golden Collection Volume 6 Disc 1 T17-18.*" "Hare Trigger - Commentary by Greg Ford-other.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 1 T18-19.*" "Birth of a Notion - Commentary by Mark Kausler-other.*"
-ren "Looney Tunes Golden Collection Volume 6 Disc 1 T19-20.*" "My Favorite Duck - Commentary by Jerry Beck-other."
+ren "Looney Tunes Golden Collection Volume 6 Disc 1 T19-20.*" "My Favorite Duck - Commentary by Jerry Beck-other.*"
 rem audio only
 ren "Looney Tunes Golden Collection Volume 6 Disc 1 T21-22.*" "Raw Raw Rooster - Music-Only-other.*"
 ren "Looney Tunes Golden Collection Volume 6 Disc 1 T22-23.*" "Jumpin' Jupiter - Music-Only-other.*"
